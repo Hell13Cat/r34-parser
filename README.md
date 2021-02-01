@@ -1,2 +1,2 @@
-# r34-parser
-Parser for website rule34
+# rule34-parser
+Parser for website rule34.xxx
